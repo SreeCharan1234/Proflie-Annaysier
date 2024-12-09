@@ -92,9 +92,6 @@ if selected=="Register":
 
 
     st.title("Data from Excel")
-
-
-
 if selected == "Leet-code":
     pass
 if selected=="codechef":
