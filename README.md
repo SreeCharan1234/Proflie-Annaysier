@@ -17,3 +17,7 @@ streamlit run cmc.py
 `Search for and Display Repo Secrets`
 
 <img width="1792" alt="Screenshot 2023-07-10 at 2 31 44 PM" src="https://github.com/NoDataFound/CMC/assets/3261849/93df3b5c-13a9-4cab-ac37-2bbf8aef6613">
+
+
+
+https://countmycode.streamlit.app/
